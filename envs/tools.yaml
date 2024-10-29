@@ -9,5 +9,5 @@ dependencies:
   - jq =1.7.1
   - seqkit =2.8.2
   - compleasm =0.2.6
-  - curl = 8.10.1
+  - curl
 
