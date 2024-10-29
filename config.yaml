@@ -1,0 +1,4 @@
+
+ListAssemblies: "data/ListAssembliesFromNCBI.txt"
+BUSCO_DB: "cetartiodactyla"
+referenceID: "GCA_002263795.4"
