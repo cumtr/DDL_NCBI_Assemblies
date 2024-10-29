@@ -1,4 +1,4 @@
-# Download and Get Stats for Assemblies of a Given Taxon on the NCBI
+# Download and get stats for assemblies of a given taxon from the NCBI
 
 This directory contains a Snakemake pipeline and companion scripts to download all assemblies from the NCBI for a given taxon and compute some basic statistics on those assemblies.
 
